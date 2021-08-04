@@ -1,0 +1,12 @@
+[{
+        "id": 1,
+        "model": "1 Series",
+        "colour": "white",
+        "manufacturer": "BMW",
+        "salesHistory": [
+            {
+                "year": 2011,
+                "vehiclesSold": 2991
+            }
+       ]
+}]
